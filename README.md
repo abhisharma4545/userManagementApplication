@@ -1,2 +1,2 @@
 # userManagementApplication
-crud operstion based project
+crud operation based project(Using java+Servlt+Jsp+Mysql+tomcat)
